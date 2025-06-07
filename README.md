@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin recipes 
 
 This website consists of an index page which has links to some amazing recipes from India.
 
